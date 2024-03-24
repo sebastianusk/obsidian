@@ -1,0 +1,55 @@
+Available Resources
+- explain on how to connect to the smart vista systems
+	- https://www.notion.so/fazzfinancialgroup/Smart-Vista-Documentation-c8c3e724cc404757acfcdc4152c3cfb8?pvs=4
+- step to deploy SVBO
+	- https://www.notion.so/fazzfinancialgroup/241812de1b9745bb916e1e74b7e71ee2?v=31b10bc26279423aaa088bde6d2dc776&p=cc8f0e067ee04507add2756b2df7b718&pm=s
+- Oracle DBA Training
+	- https://www.notion.so/fazzfinancialgroup/Oracle-DBA-Training-90d6a25504da43648adc4ecb2f42dfca?pvs=4
+- HA on OVM
+	- https://www.notion.so/fazzfinancialgroup/How-does-High-Availability-HA-Work-in-OVM-b35430caaad84779825e86dc12c77afb?pvs=4
+- Oracle Support
+	- https://www.notion.so/fazzfinancialgroup/Reach-Oracle-Support-e3308aa8f2e441f6b4634d5ef7923093?pvs=4
+- Main oracle db documentation
+	- https://www.notion.so/fazzfinancialgroup/Oracle-Database-4d8d7fe13ea746278bfe9423c2285c0f?pvs=4
+- user management
+	- https://www.notion.so/fazzfinancialgroup/Oracle-Database-User-Management-03405c2f76e84cad90f02a098bfaaa8c?pvs=4
+- oracle checklist hardening
+	- https://www.notion.so/fazzfinancialgroup/Security-checklist-for-Oracle-DB-Hardening-2ff1765f9ba04cbcad31ec7cfec4c9ce?pvs=4
+- live migration
+	- https://www.notion.so/fazzfinancialgroup/Live-migration-of-VM-from-one-host-to-another-host-in-OVM-0f812d197ad74568bd5834f6de7cd358?pvs=4
+- oracle linux patch management
+	- https://www.notion.so/fazzfinancialgroup/Oracle-Linux-Patch-management-7c9cba7d9a0044468d5a7179ecb0896f?pvs=4
+- oracle db disk full?
+	- https://www.notion.so/fazzfinancialgroup/How-to-fix-Oracle-DB-Disk-Full-02b3197fcdcf40619c9876c3cfd38583?pvs=4
+- run query
+	- https://www.notion.so/fazzfinancialgroup/How-to-run-the-sql-query-in-SVFE-production-database-46d335e3409a40e5b4244dd5e8b5f957?pvs=4
+- weblogic patch management
+	- https://www.notion.so/fazzfinancialgroup/Oracle-Web-Logic-Patch-Management-278d61a1b19c4de99f7edfd741d4abd5?pvs=4
+- database patch management
+	- https://www.notion.so/fazzfinancialgroup/Oracle-Database-Patch-Management-cad1c936126b4b19a323b6a974544239?pvs=4
+- OVM Fail over configuration
+	- https://www.notion.so/fazzfinancialgroup/DCI-PROD-OVM-Fail-over-Configuration-b9386fd8c072457ea1c99558ffb1fe73?pvs=4
+- Oracle DB Hardening guideline
+	- https://www.notion.so/fazzfinancialgroup/Xfers-Oracle-DB-Hardening-Guideline-b2ebf395c65a4b578979c0a0417a9a5a?pvs=4
+- update Oracle VM Servers
+	- https://www.notion.so/fazzfinancialgroup/Keeping-our-Oracle-VM-Servers-updated-baeb5cf282a7490f9cdec6764315e39f?pvs=4
+- Understanding oracle licenses
+	- https://www.notion.so/fazzfinancialgroup/Understanding-Oracle-Licenses-548dee0df3d742f0b36a792d9ab49336?pvs=4
+- Understanding CPU pinning
+	- https://www.notion.so/fazzfinancialgroup/Understanding-Oracle-VM-CPU-Pinning-Hard-Partitioning-49dfa8708c6b432ea2d405788f23306a?pvs=4
+- streaming oracle Database
+	- https://www.notion.so/fazzfinancialgroup/Exploring-Visa-Infrastructure-55fa00eaa5c1430e9cf274266a26b4a1?pvs=4
+- audit log of cop mariadb
+	- https://www.notion.so/fazzfinancialgroup/Audit-Log-of-COP-MariaDB-1312941c33e94008b75019e55692d213?pvs=4
+- visa certificate
+	- https://www.notion.so/fazzfinancialgroup/VISA-Certificates-ca082ccf9d1241948c49a3c5525691c7?pvs=4
+- SAN storage hardening
+	- https://www.notion.so/fazzfinancialgroup/Xfers-SAN-storage-array-Hardening-Guideline-115c9c17dbf149c5820094cae2d5fd02?pvs=4
+- Oracle DB Hardening
+	- https://www.notion.so/fazzfinancialgroup/Xfers-Oracle-DB-Hardening-Guideline-b2ebf395c65a4b578979c0a0417a9a5a?pvs=4
+- Logging NTT & DCI
+	- https://www.notion.so/fazzfinancialgroup/Logging-in-NTT-and-DCI-Rsyslog-d21249b2d8e34ff5a1b4ed437fe836a5?pvs=4
+- maria DB Hardening
+	- https://www.notion.so/fazzfinancialgroup/MariaDB-Hardening-Guideline-f0aeddba487b4545ac70e2b79d97ff69?pvs=4
+	- https://www.notion.so/fazzfinancialgroup/MariaDB-Key-Management-Evidence-PCI-DSS-3-6-3ef4e27dcab14960abd2ce23fd973b4a?pvs=4
+- 
