@@ -1,0 +1,11 @@
+---
+topic:
+  - finance
+---
+- Poems: can use SRS, but buying direct ETF
+- stashaway: like robo invest, more like building porto, can use SRS
+- coinhako: older crypto broker in Singapore
+- gemini: another crypto broker in Singapore, partnering with StraitsX
+- pintu: crypto broker in Indonesia
+- Mirae: stock broker in Indonesia (application called Neo HOTS)
+- 

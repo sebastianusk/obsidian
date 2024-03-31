@@ -1,1 +1,0 @@
-[[SWE0001-Clean Architecture]]

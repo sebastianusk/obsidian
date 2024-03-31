@@ -1,5 +1,6 @@
 ---
 tags:
   - zettelkasten
-topic:
+topic: 
+createAt: <% tp.file.creation_date() %>
 ---

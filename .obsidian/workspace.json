@@ -4,76 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "78563957acf06d54",
+        "id": "cae6cd362715bbe5",
         "type": "tabs",
         "children": [
           {
-            "id": "fe01e847dc5fab34",
+            "id": "2e7417b4dc6c13cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-03-24.md",
+                "file": "Daily/2024-03-27.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "07808bef94c471d7",
+            "id": "d92fe4e46cf40b08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-03-24.md",
+                "file": "Daily/2024-03-27.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "0769ce86301c5056",
+            "id": "2f22fbe9dc1401fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-03-24.md",
+                "file": "Security Attack Type.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d8737631cd6dad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-03-24.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a84995079712b854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEVO0019-AWS IAM.md",
-                "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#zettelkasten  ",
+                "query": "tag:stat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEVO0019-AWS IAM.md",
+                "file": "Daily/2024-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEVO0019-AWS IAM.md",
+                "file": "Daily/2024-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEVO0019-AWS IAM.md"
+                "file": "Daily/2024-03-27.md"
               }
             }
           },
@@ -217,16 +191,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DEVO0019-AWS IAM.md"
+                "file": "Daily/2024-03-27.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
+    "width": 598.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -238,57 +212,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a84995079712b854",
+  "active": "d92fe4e46cf40b08",
   "lastOpenFiles": [
+    "Security Attack Type.md",
+    "Daily/2024-03-27.md",
+    "Rob.md",
     "Daily/2024-03-24.md",
-    "DEVO0019-AWS IAM.md",
-    "DEVO0018-Docker Replacement.md",
-    "FIN0002-Crypto Account.md",
-    "Templates/Daily.md",
-    "FIN0001-Buffet Strategy.md",
-    "HOM0002-DNS Ad Blocker.md",
-    "Daily/2024-03-11.md",
-    "DEVO0008-Github Action ECR Push.md",
-    "DEVO0004-Migrate GCP Project.md",
-    "DEVO0005-AWS SSO Google Workspace.md",
-    "DEVO0006-Decentralized Infra.md",
-    "DEVO0007-Datadog On VM.md",
-    "DEVO0011-AWS Partner Program.md",
-    "DEVO0013-Infrastructure Regrets.md",
-    "PRD0004-Power of Collection Habit.md",
-    "Pasted image 20231127165356.png",
-    "MAN0007-Manager's Expectation.md",
-    "HOM0001-Home Labs Wanted List.md",
-    "Daily/2024-03-22.md",
-    "William.md",
-    "DEVO0012-GCP Project Migration.md",
+    "Daily/2024-03-25.md",
     "Templates/Zettelkasten.md",
-    "DEVO0016-Network Hardware.md",
-    "Excalidraw/Drawing 2024-03-09 10.52.32.excalidraw.md",
-    "202403091052.md",
+    "Test Me.md",
+    "Stats/Stats.md",
+    "Stats",
+    "Platform to invest.md",
+    "Templates/Daily.md",
+    "Playstation HDR setting.md",
+    "Service Monitoring.md",
+    "Second Brain.md",
+    "PARA.md",
+    "Attachments/Pasted image 20240221082602.png",
+    "Tailscale.md",
+    "Attachments",
+    "Technology Radar.md",
+    "Tools to collect.md",
+    "Tools to Organize.md",
+    "Virtualization Engine.md",
+    "Weblogic server.md",
+    "Learning LLM.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2024-03-09 10.51.01.excalidraw.md",
+    "SWE0001-Clean Architecture.md",
+    "SWE0002-Sofware Engineering.md",
+    "Regular Routine to Process My Thought.md",
+    "Open Questions Life.md",
+    "CODE Method.md",
+    "Attachments/Pasted image 20230321124119.png",
+    "Attachments/Pasted image 20230227161626.png",
+    "Attachments/Pasted image 20230227160952.png",
+    "Attachments/Pasted image 20230227160836.png",
+    "Attachments/Pasted image 20231127165356.png",
     "Templates",
     "Daily",
     "Untitled 1.canvas",
     "CLASSI - Career Ladder System by Scope of Impact.pdf",
     "[Template] Product Competency Evaluation_ Name - H1_2023 - Product Management.pdf",
-    "Pasted image 20240221082602.png",
-    "Pasted image 20231023170241.png",
-    "Pasted image 20230329115132.png",
-    "Pasted image 20230329114900.png",
-    "Pasted image 20230329114834.png",
+    "Attachments/Pasted image 20231023170241.png",
+    "Attachments/Pasted image 20230329115132.png",
+    "Attachments/Pasted image 20230329114900.png",
+    "Attachments/Pasted image 20230329114834.png",
     "Excalidraw",
-    "Pasted image 20230326122734.png",
-    "Pasted image 20230321124119.png",
-    "Pasted image 20230321124045.png",
-    "Untitled 2.canvas",
-    "Pasted image 20230227161626.png"
+    "Untitled 2.canvas"
   ]
 }

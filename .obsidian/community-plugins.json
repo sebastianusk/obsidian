@@ -8,6 +8,8 @@
   "omnisearch",
   "url-into-selection",
   "templater-obsidian",
-  "text-extractor",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-outliner",
+  "quickadd",
+  "tag-wrangler"
 ]
