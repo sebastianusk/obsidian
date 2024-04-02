@@ -1,5 +1,7 @@
 ---
 tags:
+  - zettelkasten
+topic:
   - productivity
 ---
 A book by Sonke Ahrens, talks about Zettelkasten (the Germany word for slip-box). A system by Niklas Luhmann. Where he produced a ton of materials, and he claimed that it was because of the slip-box

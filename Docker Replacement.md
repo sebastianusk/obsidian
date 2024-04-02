@@ -6,5 +6,5 @@ Docker is doing weird with its license, basically they don't allow docker deskto
 - podman desktop: daemonless approach
 - colima: there is an issue
 - orbstack: paid, there is an issue
-- rancher desktop: probably the best to emulate what docker desktop do
+- rancher desktop: probably the best to emulate what docker desktop does
 source: https://medium.com/digio-australia/exploring-the-options-docker-desktop-alternatives-for-developers-6c6bee7ec0db
